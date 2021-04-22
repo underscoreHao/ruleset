@@ -1,30 +1,52 @@
-# Ruleset
+# TMA Sparring/Tournament Guidelines
 
-## Equipment
+## Possible Equipment
 
-### Mandatory equipment
+A) Mouthguard
+
+B1) **[TBD]** Boxing gloves (16 oz.)
+
+B2) MMA gloves
+
+C1) Face cage
+
+C2) Plastic cage/shield
+
+D) Chest protector
+
+E) Shin protectors
+
+F) Groin cup
+
+G) Soft braces (knees, elbows)
+
+H) Shoes
+
+## Technical arsenal
+
+All punching, elbow strikes, kicking and throwing/wrestling techniques are permitted to be utilized to the following areas:
+
+A) Head - side, top and front
+
+B) Torso - front, side, back (excluding spine and kidneys)
+
+C) Outer thigh
+
+D) Inner thigh
+
+E) Shins
+
+## Easy way to create and share a sparring format
+
+To create and share the specific rules for your sparring session easily with others you can create a simple code in a specific format. The code consists of two sections - `Equipment` section and `Technical Arsenal` section. Both sections are separated by a `|` a.k.a. the pipe character. Each section can contain one or more options provided by the guidelines chained with a dash `-`.
+
+> A-B2-H | B-C-D
+
+The code depicted above illustrates a sparring session with the following rules:
 
 - Mouthguard
-- Gloves
-  - **[TBD]** Boxing Gloves (16 oz.)
-  - MMA style gloves. Must weigh at least 4 ounces (120 grams) and no more than 6 ounces (180 grams) for size medium or larger gloves. For size small gloves, gloves must weigh no less than 3 ounces (85 grams). The fingers and palm must be able to open. Padding on the thumb is optional. Gloves may not have been modified.
-
-### Additional possible equipment
-
-- Headgear
-  - Headgear must be of the face cage style. The cage must be made of hard plastic and of single piece
-construction. Clear plastic cage or shield, and multiple piece construction are not satisfactory. Additional
-padding is not permitted.
-- Chest protectors
-- Shin protectors
-- Groin cup
-- Soft braces (knees, elbows)
+- MMA gloves
 - Shoes
-  - Shoes must be soft soled with no hard plastic or metal parts. The shoes should be flexible enough that the
-shoe can be easily bent such that the toe and heel can touch each other. If the shoes are laced, then the
-plastic tip on the laces (aglet) must be clipped. Only “low-top” shoes will be permitted; “high-top” shoes (ones
-that cover the ankles) will not be permitted. If one competitor chooses not to wear shoes during the match,
-his/her opponent may still wear shoes.
-
-## Striking
-
+- Torso strikes allowed (excluding spine and kidneys)
+- Outer thighs allowed
+- Inner thighs allowed
